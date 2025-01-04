@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ornate-keel-445806-n0",
+  "private_key_id": "d0d367a0234308ed31563363059df55990dcc7d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIVHAzt3+qWx/X\nNgeB7kOiywQRisXC7FqfsedRCAFitj02I639rcsNodpHwCA08E/L6p8RAu5lPcHi\nar4WSAd1M/w+asWRGNGCUMzaUTsPfJuXjnT0oXakyrUXbWYpk8BuButSDNHcR6Zt\nsJIVoxeCdzN222HxEC0nw2eD5PynKblEVoePRoE8ryNktM1EK2YVl248Nk+a27Bx\nOsYQNUN1Tn6NlPnf3bUxGY6xvNJtT3o+xEhQ3k5DdixduEYEzSubYIJjWpF2jn+9\n2k04STPeCqyFejDws9oK6HRN1aBK0rXOdpenuqjR1Ygnnu0TuqlMDsFsOUss1f3/\n2EWHG02tAgMBAAECggEARE8ej1Pz0VgPLGg8+R4QrBMDySODuaq0YB3enW/YYRt5\nFdvmuUioo3ZcIvktQj/rRcI0CS3xsk3zrcvuE1TuThWy3mm0Anzu+7unjo4CUI6R\n04T89mmUNi70vw9LtcOu6xWq6ih66tz3sBF0TrJ1EsSopM+7vuJgM13bD0tmp2zk\n04DcRrgMqUtqaMjWOVCQqjbojp6ZC/f7sWz2Q6PKpI3ZbgUK04I/WWaUbpGdVQhi\njWAOPepIiv/Z8pAAfqyWXBEBvggn8j6RI9yHw3rvWwaJkDFVR3cDxV1eP2eDDrjb\nNnN+RIKmrZP1NXTdCBVZjKL/CT7zFL5+AC3Y0Jj51QKBgQD1S9n5NZYceaB2P5qL\n8mVEk9vFL4GJOTjPdrjQ622rluO0PpZEgv3Y6wBfMxbl46IUrKcgQakoRkZvQ500\nH6MN2hRwu4B2caXhyzWqbH/y2/lgZGrx4DkZ3lm9HRdvPn7/gFpYx/TAS8CLf0o3\nNvyxZJNnSOfjtqgDCpRdXeH2RwKBgQDREkbglYHA0NldcgwqIaO9vec0u+4u4pHN\nYnjL7kLu6qJ86l/U2R8zVFyL/HQvP40HHCjG5Id5n6hm5K1S6OvJFxKzfVRlJ92R\nvhx0g9YkuXZ0qZP6VSck+srcwZRuLEcicXRXzTc/pDzMQKf80cBvgGuaswqDPsMO\nUmnBqjSyawKBgB2yJxtSb2/XEaP/IziaCcR5mfuPOsFgGg6TsuAoAEjrpXlmsk5t\nBUpDePINf1Ipcq/KDxmKmW30xAYoS1nKErVUl3DmYjD0pT5mmYKeTAcctl4DCidq\nG7+T+Y05fmLLUBiic02YN3soMJEywctZbtIS+P1iCCC7Ni/YEgoTmY11AoGAUPf4\nFSAxqR/5HpR9m499n409TpH9s5CxkM4zJB95MpgSJ7iJNqCD0dg5I0m5IVdGYduI\n+0YkJXksufSUH4jvT+isqHDAT5C54aiz0ngAZiahdpr6ITf7OfoauJYLywNA5Vj1\nCtACNpZ/qUbdCC+fjE863SW7y4px9kj6hjNJx1MCgYBPzPFqxPaXirvsgXnZmCNV\ntiVVBo7FjoJBpyGYpEptd58SMQq3tQV/JbmG3mkSSJCi46fJZo0TR1RXJxfLiOwo\nPoDM/xhyqrnEvgnEzB4shgteiJaCitB4yiSt8aL6iPezxp0+I01PK1Ih9tcKkXri\nai2jXOmjslTMa5qA7eibjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deepak-kumar@ornate-keel-445806-n0.iam.gserviceaccount.com",
+  "client_id": "112190844353248810770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deepak-kumar%40ornate-keel-445806-n0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
